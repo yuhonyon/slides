@@ -1,0 +1,1 @@
+# 滑屏 [![Build Status](https://travis-ci.org/yuhonyon/f2e-slides.svg?branch=master)](https://travis-ci.org/yuhonyon/f2e-slides) [![npm](https://img.shields.io/npm/v/@fastweb/slides.svg)](https://www.npmjs.com/package/@fastweb/slides)
